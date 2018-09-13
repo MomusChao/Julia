@@ -1,0 +1,5 @@
+# create an array
+array01 = [1,2,3]
+
+# transpose array
+trans_array = transpose(array01)
