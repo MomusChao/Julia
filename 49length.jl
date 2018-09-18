@@ -1,0 +1,1 @@
+length("Momus") # 5
